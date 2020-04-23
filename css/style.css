@@ -27,7 +27,22 @@ body{
 }
 
 .contato{
-    background-color: #2A2F2A;
+    background-color: #232723;
     color: white;
     font: 20px, helvetica;
+}
+
+.margin2{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.faleconosco{
+    background-color: #2A2F2A;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+.telefone{
+    color: white;
 }
