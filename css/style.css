@@ -3,8 +3,15 @@ body{
 }
 .navbar{
     background-color: #D9F6D9;
-    color: black;
     font-size: 30px;
+}
+
+.nav-item{
+    border: solid 2px rgb(18, 110, 38);
+    margin-left: 10px;
+}
+.nav-item a:hover{
+    text-shadow: 1px 1px rgb(9, 59, 20);  
 }
 
 .quem-somos{
